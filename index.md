@@ -1,5 +1,7 @@
-Here you can say lots of fun things about your site.
+I am Akshat Jaimini, a Software Engineer and OSS contributor. Here I talk about Database Internals, Distributed Systems and some of my personal endeavours in the tech industry.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Let's connect:
+ - if you love Databases
+ - if you love Distributed Systems
+ - if you have any awesome collaboration Ideas
+ - if you are a pure Rustacean(just like me !)
