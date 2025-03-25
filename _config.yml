@@ -18,8 +18,8 @@ youtube_username: "kyllex1901"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
-remote_theme: pages-themes/tactile@v0.2.0
+# theme: "minima"
+theme: "hacker"
 
 rss: rss
 
