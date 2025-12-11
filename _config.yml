@@ -20,6 +20,10 @@ youtube_username: "kyllex1901"
 #########################################################################################
 theme: "minima"
 
+collections:
+  books:
+    output: true
+
 rss: rss
 
 kramdown:
@@ -38,5 +42,10 @@ defaults:
   - scope:
       path: ""
       type: post
+    values:
+      tags: Other
+  - scope:
+      path: ""
+      type: books
     values:
       tags: Other
