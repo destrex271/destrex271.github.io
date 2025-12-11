@@ -46,6 +46,6 @@ defaults:
       tags: Other
   - scope:
       path: "/books"
-      type: book
+      type: books
     values:
       tags: Other
